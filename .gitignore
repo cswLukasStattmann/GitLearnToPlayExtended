@@ -86,6 +86,9 @@ lint/tmp/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
 
+# eigene Ignores
+/.MxPx/Michael.txt
 
-# IGNORED FILES #
-/Hofmeister.txt
+/Sagis/Sagis.txt
+/MxPx/mih
+/MxPx/mic.txt
