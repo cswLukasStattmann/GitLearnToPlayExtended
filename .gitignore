@@ -94,8 +94,14 @@ lint/tmp/
 
 /MxPx/Pirker.txt
 
+/Sagis/Sagis.txt
 
 /valiyev/valiyev.txt
 /kolbitsch/kolbitsch2.txt
 # custom file path
 /stattmann/lukas.txt
+
+/Hofmeister/Hofmeister.txt
+
+# IGNORED FILES #
+/Hofmeister/Philipp.txt
