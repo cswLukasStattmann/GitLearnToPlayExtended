@@ -82,6 +82,7 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+
 # lint/reports/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
@@ -96,10 +97,4 @@ lint/tmp/
 /valiyev/valiyev.txt
 /kolbitsch/kolbitsch2.txt
 # custom file path
-/stattmann/stattmann.txt
-/stattmann/test.html
-
-/Hofmeister/Hofmeister.txt
-
-# IGNORED FILES #
-Hofmeister/Philipp.txt
+/stattmann/lukas.txt
