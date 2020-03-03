@@ -86,11 +86,12 @@ lint/tmp/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
 
+
+/Sagis/Baran.txt
 # eigene Ignores
 
 /MxPx/Pirker.txt
 
-/Sagis/Sagis.txt
 
 /valiyev/valiyev.txt
 /kolbitsch/kolbitsch2.txt
