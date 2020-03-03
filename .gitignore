@@ -89,13 +89,13 @@ lint/tmp/
 /school/Pirker-Hidden-folder/michael-hidden.txt
 /school/Pirker-Hidden-folder/Pirker-hidden.txt
 
-/valiyev-hidden-folder
+/valiyev-hidden-folder/*
 
 #local customs
 /sagis-hidden-folder/*
 
 ## hidden files
-/hofmeister-hidden-folder
+/hofmeister-hidden-folder/*
 
 #local customs
 
