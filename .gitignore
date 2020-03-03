@@ -100,3 +100,6 @@ lint/tmp/
 /stattmann/test.html
 
 /Hofmeister/Hofmeister.txt
+
+# IGNORED FILES #
+Hofmeister/Philipp.txt
