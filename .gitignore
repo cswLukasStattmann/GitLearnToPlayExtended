@@ -91,4 +91,10 @@ lint/tmp/
 
 #local customs
 /sagis-hidden-folder/*
+
+## hidden files
+/hofmeister-hidden-folder
+
+#local customs
+
 /kolbitsch-hidden-folder/*
