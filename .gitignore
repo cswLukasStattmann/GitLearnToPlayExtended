@@ -86,5 +86,11 @@ lint/tmp/
 # lint/reports/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
+/school/Pirker-Hidden-folder/michael-hidden.txt
+/school/Pirker-Hidden-folder/Pirker-hidden.txt
 
 /valiyev-hidden-folder
+
+#local customs
+/sagis-hidden-folder/*
+/kolbitsch-hidden-folder/*
