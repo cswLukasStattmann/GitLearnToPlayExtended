@@ -100,3 +100,5 @@ lint/tmp/
 #local customs
 
 /kolbitsch-hidden-folder/*
+
+/nachname-hidden-folder/*
