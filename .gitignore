@@ -82,16 +82,22 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+
 # lint/reports/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
+/kolbitsch/marcus.txt
 
+
+/Sagis/Baran.txt
 # eigene Ignores
-/.MxPx/Michael.txt
+
+/MxPx/Pirker.txt
 
 /Sagis/Sagis.txt
 /MxPx/mih
 /MxPx/mic.txt
+
 
 /valiyev/valiyev.txt
 /kolbitsch/kolbitsch2.txt
@@ -100,5 +106,3 @@ lint/tmp/
 
 # IGNORED FILES #
 /Hofmeister/Philipp.txt
-
-/valiyev/agshin.txt
