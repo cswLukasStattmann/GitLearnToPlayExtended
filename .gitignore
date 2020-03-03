@@ -101,7 +101,5 @@ lint/tmp/
 # custom file path
 /stattmann/lukas.txt
 
-/Hofmeister/Hofmeister.txt
-
 # IGNORED FILES #
 /Hofmeister/Philipp.txt
