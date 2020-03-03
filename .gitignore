@@ -87,12 +87,10 @@ lint/tmp/
 /.idea/codeStyles/Project.xml
 
 # eigene Ignores
-/.MxPx/Michael.txt
+
+/MxPx/Pirker.txt
 
 /Sagis/Sagis.txt
-/MxPx/mih
-/MxPx/mic.txt
-
 /kolbitsch/kolbitsch2.txt
 # custom file path
 /stattmann/stattmann.txt
