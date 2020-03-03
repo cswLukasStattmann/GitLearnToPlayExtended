@@ -85,4 +85,6 @@ lint/tmp/
 # lint/reports/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
-kolbitsch/kolbitsch.txt
+/kolbitsch/kolbitsch.txt
+
+/kolbitsch/test.txt
