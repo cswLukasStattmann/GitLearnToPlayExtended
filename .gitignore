@@ -34,7 +34,7 @@ proguard/
 .navigation/
 
 # IGNORED FILES #
-.idea/Hofmeister/Hofmeister.txt
+/Hofmeister.txt
 
 # Android Studio captures folder
 captures/
