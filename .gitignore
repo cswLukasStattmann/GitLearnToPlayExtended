@@ -95,3 +95,6 @@ lint/tmp/
 
 /valiyev/valiyev.txt
 /kolbitsch/kolbitsch2.txt
+# custom file path
+/stattmann/stattmann.txt
+/stattmann/test.html
