@@ -33,9 +33,6 @@ proguard/
 # Android Studio Navigation editor temp files
 .navigation/
 
-# IGNORED FILES #
-/Hofmeister.txt
-
 # Android Studio captures folder
 captures/
 
@@ -88,3 +85,7 @@ lint/tmp/
 # lint/reports/
 /.idea/misc.xml
 /.idea/codeStyles/Project.xml
+
+
+# IGNORED FILES #
+/Hofmeister.txt
